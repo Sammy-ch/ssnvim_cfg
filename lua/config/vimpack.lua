@@ -4,10 +4,10 @@ vim.pack.add({
 	{ src = 'https://github.com/mason-org/mason-lspconfig.nvim' },
 	{ src = 'https://github.com/neovim/nvim-lspconfig' },
 	{ src = 'https://github.com/stevearc/oil.nvim' },
-	{ src = 'https://github.com/nvim-telescope/telescope.nvim',     version = '0.1.8' },
+	{ src = 'https://github.com/nvim-telescope/telescope.nvim',         version = '0.1.8' },
 	{ src = 'https://github.com/nvim-lua/plenary.nvim' },
 	{ src = 'https://github.com/ThePrimeagen/harpoon' },
-	{ src = 'https://github.com/nvim-treesitter/nvim-treesitter',   version = 'master' },
+	{ src = 'https://github.com/nvim-treesitter/nvim-treesitter',       version = 'master' },
 
 	--Snippets
 	{ src = 'https://github.com/L3MON4D3/LuaSnip' },
@@ -20,4 +20,6 @@ vim.pack.add({
 	{ src = 'https://github.com/hrsh7th/cmp-cmdline' },
 	{ src = 'https://github.com/hrsh7th/nvim-cmp' },
 	{ src = 'https://github.com/saadparwaiz1/cmp_luasnip' },
+
+	{ src = 'https://github.com/rachartier/tiny-inline-diagnostic.nvim' }
 })
