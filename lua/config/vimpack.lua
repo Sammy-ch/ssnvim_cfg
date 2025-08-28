@@ -21,5 +21,11 @@ vim.pack.add({
 	{ src = 'https://github.com/hrsh7th/nvim-cmp' },
 	{ src = 'https://github.com/saadparwaiz1/cmp_luasnip' },
 
-	{ src = 'https://github.com/rachartier/tiny-inline-diagnostic.nvim' }
+	{ src = 'https://github.com/rachartier/tiny-inline-diagnostic.nvim' },
+
+	--StatusLine
+	{ src = 'https://github.com/linrongbin16/lsp-progress.nvim' },
+	{ src = 'https://github.com/nvim-lualine/lualine.nvim' },
+	{ src = 'https://github.com/nvim-tree/nvim-web-devicons' },
+
 })

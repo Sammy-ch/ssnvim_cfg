@@ -4,7 +4,7 @@ require("tiny-inline-diagnostic").setup({
 
 	-- Style preset for diagnostic messages
 	-- Available options: "modern", "classic", "minimal", "powerline", "ghost", "simple", "nonerdfont", "amongus"
-	preset = "minimal",
+	preset = "powerline",
 
 	-- Set the background of the diagnostic to transparent
 	transparent_bg = false,
