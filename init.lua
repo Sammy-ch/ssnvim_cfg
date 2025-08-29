@@ -1,7 +1,6 @@
 require("config.vimpack")
 require("config.remap")
 
-
 vim.opt.relativenumber = true
 
 vim.opt.signcolumn = "yes"
