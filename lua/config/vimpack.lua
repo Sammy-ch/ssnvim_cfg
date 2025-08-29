@@ -37,6 +37,6 @@ vim.pack.add({
 	--Startup
 	{ src = 'https://github.com/nvimdev/dashboard-nvim' },
 	{ src = 'https://github.com/m4xshen/autoclose.nvim' },
-
+	{ src = 'https://github.com/numToStr/FTerm.nvim' },
 
 })
