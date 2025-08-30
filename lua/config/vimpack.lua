@@ -39,4 +39,7 @@ vim.pack.add({
 	{ src = 'https://github.com/m4xshen/autoclose.nvim' },
 	{ src = 'https://github.com/numToStr/FTerm.nvim' },
 
+	-- Java
+	{ src = 'https://github.com/mfussenegger/nvim-jdtls' },
+	{ src = 'https://github.com/mfussenegger/nvim-dap' },
 })

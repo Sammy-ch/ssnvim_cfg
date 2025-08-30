@@ -1,6 +1,7 @@
 require("config.vimpack")
 require("config.remap")
 
+
 vim.opt.relativenumber = true
 
 vim.opt.signcolumn = "yes"
@@ -21,4 +22,4 @@ vim.g.border = "rounded"
 
 vim.cmd("colorscheme bathory")
 
-vim.lsp.enable({ 'luals', 'rust', 'ruby' })
+vim.lsp.enable({ 'luals', 'rust', 'ruby', 'jdtls' })

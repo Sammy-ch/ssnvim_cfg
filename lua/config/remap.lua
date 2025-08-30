@@ -10,4 +10,5 @@ vim.keymap.set('n', '<leader>w', function()
 	vim.cmd.write()
 	vim.lsp.buf.format()
 end)
+
 vim.keymap.set('n', '<leader>q', vim.cmd.quit)
